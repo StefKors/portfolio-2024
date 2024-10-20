@@ -1,8 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content'],
-
+  modules: ['@nuxt/content', '@nuxthq/studio'],
+  // force module initialization on dev env
+  // studio: {
+  //   enabled: true
+  // },
   routeRules: {
     '/': { prerender: true }
   },
