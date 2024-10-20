@@ -8,7 +8,7 @@ export default defineNuxtSchema({
       icon: 'i-icon-to-display',
       fields: {
         leaf: field({
-          type: 'Type of component used to edit your field',
+          type: "string",
           title: 'Field title',
           description: 'Field Description',
           icon: 'i-icon-to-display',
