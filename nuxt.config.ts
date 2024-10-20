@@ -7,7 +7,11 @@ export default defineNuxtConfig({
   //   enabled: true
   // },
   routeRules: {
-    '/': { prerender: true }
+    '/api/search.json': { prerender: true }
+  },
+
+  future: {
+    compatibilityVersion: 4
   },
 
   compatibilityDate: '2024-10-20'
