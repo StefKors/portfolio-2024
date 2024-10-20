@@ -1,0 +1,90 @@
+[
+  {
+    "id": 11,
+    "company": "Kosmik",
+    "title": "Lead Product Designer",
+    "date": "August 2023 - Present",
+    "location": "Remote",
+    "url": "https://www.kosmik.app"
+  },
+  {
+    "id": 10,
+    "company": "Beam",
+    "title": "Frontend Engineer",
+    "date": "April 2021 - July 2023",
+    "location": "Remote",
+    "url": "https://beamapp.co"
+  },
+  {
+    "id": 9,
+    "company": "Balena",
+    "title": "Frontend Engineer",
+    "date": "November 2019 - March 2021",
+    "location": "Remote",
+    "url": "https://www.balena.io"
+  },
+  {
+    "id": 8,
+    "company": "oneacre.online",
+    "title": "Co-Founder",
+    "date": "2016 - 2019",
+    "location": "The Hague Area, Netherlands",
+    "url": "https://www.oneacre.online"
+  },
+  {
+    "id": 7,
+    "company": "Ontwerpwerk",
+    "title": "Developer",
+    "date": "November 2018 - November 2019",
+    "locaiton": "The Hague Area, Netherlands",
+    "url": "https://www.ontwerpwerk.nl"
+  },
+  {
+    "id": 6,
+    "company": "PublishingLab",
+    "title": "Developer",
+    "date": "Januari 2018 - June 2018",
+    "location": "Amsterdam Area, Netherlands",
+    "url": "http://www.publishinglab.nl"
+  },
+  {
+    "id": 5,
+    "company": "PublishingLab",
+    "title": "Design Intern",
+    "date": "September 2017 - December 2017",
+    "location": "Amsterdam, Netherlands",
+    "url": "http://www.publishinglab.nl"
+  },
+  {
+    "id": 4,
+    "company": "Bynder",
+    "title": "User Experience Design Intern",
+    "date": "Februari 2017 - May 2017",
+    "location": "Rotterdam, Netherlands",
+    "url": "https://www.bynder.com"
+  },
+  {
+    "id": 3,
+    "company": "Mangrove",
+    "title": "Interaction Design Intern",
+    "date": "September 2015 - Februari 2016",
+    "location": "Rotterdam, Netherlands",
+    "url": "https://www.mangrove.nl"
+  },
+  {
+    "id": 2,
+    "company": "Navara",
+    "title": "Junior Design Consultant",
+    "date": "May 2014 - May 2015",
+    "location": "Driebergen-Rijsenburg, Netherlands",
+    "url": "https://www.navara.nl"
+  },
+  {
+    "id": 1,
+    "company": "VanDen Collection",
+    "title": "Product Designer",
+    "date": "Februari 2013 - September 2013",
+    "location": "Dronten",
+    "url": "https://www.vandencollection.com"
+  }
+]
